@@ -4,8 +4,7 @@ a = 45
 b = 875
 c = 74
 
-def multi(a, b, c):
-    f = a+b+c
+def multi():
+    print('Esta función es para frontend')
 
-    return f
     
